@@ -1,3 +1,9 @@
+'''
+ I decided to develop an algorithm based on RSA
+ to be able to put my knowledge of cryptography
+ and the Python programming language into practice.
+'''
+
 from math import gcd
 from sympy import mod_inverse
 
